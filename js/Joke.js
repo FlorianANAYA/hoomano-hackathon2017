@@ -27,7 +27,7 @@ Joke.prototype.AddMark = function(mark)
 Joke.prototype.GetAverage = function()
 {
     if (this.m_nbMarks === 0)
-        return 0;
+        return 0.5;
     else
         return this.m_mark / this.m_nbMarks;
 };
