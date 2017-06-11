@@ -34,25 +34,58 @@ var jokes =
 [
     new Joke("Comment appelle-t-on un alcotest en terme culinaire ? Un soufflé aux amandes."),
     new Joke("Qu'est ce qui fait 999 fois TIC et 1 fois TOC ? Un mille pattes avec une jambe de bois."),
-    new Joke("Qui est le frère de Albert einstein ? Frranck."),
+    new Joke("Qui est le frère de Albert einstein ? Frranck parce que Franckeistein"),
     new Joke("Connais-tu la blague du chauffeur d'autobus? Moi non plus j'étais à l'arrière du bus !"),
     new Joke("Tu veux une blague à 2 balles ? Pan pan"),
     new Joke("Tu prends un fruit exotique, genre kiwi, et une vache. Tu prends les deux, ça fait la vache kiwi..."),
     new Joke("Qu'est-ce qui fait ses 8 heures par jour dans l'administration ? La machine à café."),
-    new Joke("Tu connais la différence entre ma nouvelle secrétaire et l'administration des impôts ? L'administration des impôts vous suce jusqu'à l'os."),
+    new Joke("Quel animal fait toin toin ? un tanard."),
     new Joke("Vous êtes coupable. Je vous condamne à 100 dollars d'amendes. Oh non ! Madame le juge ! Je mange pour 25 dollars d'arachides et je suis malade. Alors imaginez-vous cent dollars d'amandes : je vais en mourir ! "),
     new Joke("Quelle est la différence entre un inspecteur des impôts et un vampire? Le vampire ne suce le sang que la nuit"),
     new Joke("Monsieur et madame bar ont un fils, comment s'appelle t-il? Léni parce que lénibar. "),
     new Joke("Monsieur et Madame Bistrukla ont un fils....qui est-il? César parce que c'est zarbi ce truc là"),
-    new Joke("Monsieur et Madame à la vanille please ont un fils, comment s'appelle-t-il ? Douglas parce que dou glace à la vanille"),
+    new Joke("Monsieur et Madame à la vanille ont un fils, comment s'appelle-t-il ? Douglas parce que dou glace à la vanille"),
     new Joke("Quel est le sport le plus fruité ? C'est la boxe parce que quand tu te prends une pêche en pleine poire tu tombes dans les pommes et tu peux plus ramenais ta fraise !!!"),
     new Joke("Un boxeur dit à un de ses confrères : Je me demande comment tu as fait pour être battu par ce petit gringalet qui t'arrive tout juste au menton? Ben justement, il y arrivait trop souvent ! "),
     new Joke("Comment dit-on 'rentrez chez vous' en brésilien? Troasero."),
     new Joke("Pourquoi il n'y-t-il a pas de clous au tennis? Parce qu'il y a déja la coupe Davis !"),
     new Joke("Comment pourrait-on faire pour réussir à faire mouiller le maillot des joueurs de l'équipe de France de football ? En jouant sous la pluie !"),
-    new Joke("C'est un mec il rentre dans un bar, il dit c'est moi. Mais en fait, c'est pas lui"),
+    new Joke("C'est un mec il rentre dans un bar, il dit c'est moi. Mais en fait , c'est pas lui"),
     new Joke("Un cheval va à la boulangerie , bonjour je voudrais trois beignets aux pommes? Déolé nous n'en avons plus ? C'est pas grave, je suis venue en mobilette"),
-    
+    new Joke("A la piscine, un nageur se fait enguirlander parce qu'il a fait pipi dans l'eau? Mais enfin, proteste-t-il, vous exagérez, je ne suis pas le seul à faire ça ? Si, monsieur, du haut du plongeoir, vous êtes le seul! "),
+    new Joke("Allô Police ! Je viens d'écraser un poulet. Que dois-je faire ? - Et bien , plumez-le et faites-le cuire à thermostat 6? - Ah bon ! Et qu'est-ce que je fais de la moto"),
+    new Joke("Deux asticots se retrouvent dans une pomme :? - Tiens ! Je ne savais pas que vous habitiez le quartier !"),
+    new Joke("C'est un aveugle qui rentre dans un bar, puis dans une table, puis dans une chaise"),
+    new Joke("La maman d'Émilie n'est pas contente? - Regarde, le lait a débordé, je t'avais pourtant demandé de regarder ta montre!? - Mais je l'ai fait, il était exactement 8H10 quand le lait a débordé !"),
+    new Joke("Une mère dit à son garçon :? -N'oublie pas que nous sommes sur terre pour travailler? - Bon, alors moi, plus tard je serai marin !"),
+    new Joke("Vous êtes au volant d'une voiture et vous roulez à vitesse constante.? A votre droite, le vide...? A votre gauche, un camion de pompiers qui roule à la même vitesse et dans la même direction que vous.? Devant vous, un cochon, qui est plus gros que votre voiture !? Derrière vous, un hélicoptère qui vous suit, en rase-motte.? Le cochon et l'hélicoptère vont à la même vitesse que vous? Face à tous ces éléments, comment faites-vous pour vous arrêter ? C'est simple, vous descendez du manège !"),
+    new Joke("Je suis inquiet, je vois des points noirs.? - Tu a vu l'oculiste ? - Non, des points noirs !"),
+    new Joke("Une femme discute avec une amie :? - 'J'ai un mari en or.'? - 'moi, le mien, il est en taule.'"),
+    new Joke("Sur le bord du Nil, trois Belges voyant un crocodile dans l'eau se mettent à lui jeter des cailloux? A un moment, le crocodile, en colère, s'approche de la rive, prêt à monter sur la berge. Deux des Belges se sauvent et montent dans un arbre. Le troisième, impassible, ne bouge pas? Les autres l'appelle et lui disent de se sauver? Alors l'autre leur répond : 'Ca va pas, une fois, j'ai pas jeté de cailloux moi.'"),
+    new Joke("Une dame se présente chez le pharmacien? - 'Bonjour monsieur! je voudrais de l'acide acétylsalicylique, SVP !'? - 'Vous voulez dire de l'aspirine '? - 'Ha ! oui, c'est cela... je ne me souvenais plus du nom.'"),
+    new Joke("J'ai des soucis d'argent, rien que tes études, ça me coûte une fortune!? -Et encore, moi, je ne suis pas de celles qui étudient le plus!"),
+    new Joke("Le père de David s'étonne de ne pas avoir encore reçu le bulletin scolaire de son fils et lui en demande la raison :? - Et ton bulletin il est pas encore arrivé? - Si, si mais je l'ai prêté a Paul pour qu'il fasse peur a son père !"),
+    new Joke("La maîtresse demande à Nicolas :? - Conjugue-moi le verbe savoir à tous les temps.? - Je sais qu'il pleut, je sais qu'il fera beau, je sais qu'il neige."),
+    new Joke("Deux étudiants en ingénierie marchent le long de leur campus lorsque l'un des deux dit a l'autre :? - Ou est-ce que tu as trouvé ce vélo ? - Ben en fait, alors que je marchais, hier, et que j'étais dans mes pensées, je croise une super nana en vélo qui s'arrête devant moi, pose son vélo par terre, se déshabille entièrement et me dit : - Prends ce que tu veux !? - Tu as eu raison, les vêtements auraient certainement été trop serrés !"),
+    new Joke("La maîtresse demande de construire une phrase avec l'adjectif épithète.? Nicolas lève le doigt et dit :? Aujourd'hui il pleut, épithète demain, il fera beau !"),
+    new Joke("Une étudiante en médecine répond aux questions du professeur:? - Qu'est ce qui provoque la transpiration? - Vos questions, Monsieur, répond la jeune fille."),
+    new Joke("À quoi reconnaît-on qu'une voiture n'est plus cotée à l'argus ? Il y a un autocollant «OM Champion de France» sur la vitre arrière."),
+    new Joke("A quoi reconnaît-on un motard heureux ? Aux moucherons collés sur ses dents."),
+    new Joke("Linux a un noyau, windows a des pépins !"),
+    new Joke("Un jour, je suis sorti de ma chambre et j'ai découvert que ma famille avait déménagé."),
+    new Joke("Le manuel disait « nécessite Windows XP ou mieux » j'ai donc installé Linux."),
+    new Joke("Le jour ou microsoft inventera un truc qui ne plante pas, ce sera un clou !"),
+    new Joke("Quand la rame est pleine, c'est souvent un problème de bus."),
+    new Joke("Un chef de projet, c'est quelqu'un qui pense qu'avec 9 femmes, on peut faire un bébé en un mois."),
+    new Joke("Quelle est la mamie qui fait peur aux voleurs ? Mamie Traillette !"),
+    new Joke("Avec quoi ramasse t'on la papaye ? Avec une foufourche. "),
+    new Joke("Combien faut-il d'ingénieurs pour changer une ampoule chez Microsoft ? Aucun, tout le monde reste dans le noir et Billou décide que c'est le nouveau standard. "),
+    new Joke("Bill Gates va au paradis et dieu lui dit : - Fils, vient t'asseoir à ma droite. Bill répond :? - Primo, je ne suis pas votre fils et Deuzio, qu'est-ce que vous faites assis à ma place ?!"),
+    new Joke("Combien de techniciens de chez Microsoft ça prend pour changer une ampoule électrique? Trois deux pour tenir l'échelle et un pour visser l'ampoule dans le robinet. "),
+    new Joke("Combien de Vice-présidents de chez Microsoft ça prend pour changer une ampoule électrique? - Huit un pour changer l'ampoule, et sept pour être sûr que Microsoft empoche bien deux dollars pour toute ampoule changée à travers le monde."),
+    new Joke("Microsoft a sorti une nouvelle console de jeu? On a pu apprécier la manette ergonomique et pratique, puisqu’elle ne comporte que 3 boutons Ctrl, Alt et Suppr."),
+    //new Joke(""),
+    //new Joke(""),
     
     
 ];
@@ -66,35 +99,40 @@ var TEXTS =
         "J'ai les meilleurs blagues",
         "Approchez-vous",
         "Approchez-vous j'ai de super blague",
-        "Quelqu'un veut gouter à mon humour robotique ?"
+        "Quelqu'un veut gouter à mon humour robotique ?",
+        "UnMute, dealer de blague de qualité depuis 1973"
     ],
     TU_VEUX_UNE_BLAGUE:
     [
         "Veux-tu que je te raconte une blague",
         "Hey j'ai une super blague",
-        "Tu veux une blague nulle ?"
+        "Tu veux une blague nulle ?",
+        "Veux-tu une blague de qualité ?"
     ],
     EN_FAIT_NON:
     [
         "Nan laisse tomber elle est trop naze",
         "En fait la fin est nulle laisse tomber",
-        "Euh attend, c'est sa la fin ? Mais c'est trop nulle, je peux pas la dire"
+        "Attent attend, la fin est trop nulle, je peux pas la dire",
+        
     ],
     BLAGUE_DROLE:
     [
-        "a a a a a a a a",
+        "Qui trouve ça drôle à part toi",
         "Moi aussi j'ai bien aimé",
         "C'est ouf les humains ont vraiment un humour de merde",
         "Wow vus rigolez à ça ? Ok.",
         "J'ai pas trouvé ça drôle moi mais bon",
-        "MDR"
+        "Faut vraiment avoir un humour de brocolis pour rigoler à sa",
+        
     ],
     BLAGUE_TRES_DROLE:
     [
         "Arrêtez de rire maintenant",
         "Qu'est-ce qu'on se marre",
         "Je commence à croire que mes blagues sont drôles",
-        "Tu as vraiment un rire de merde"
+        "Tu as vraiment un rire de merde",
+        "Personne n'a rie à ça avant toi, c'est bizarre"
     ],
     BLAGUE_PAS_DROLE:
     [
@@ -107,8 +145,11 @@ var TEXTS =
         "Excusez-moi pour cette blague de merde",
         "Désolé, mes autres blagues sont mieux",
         "Mes créateurs ont visiblement beaucoup plus d'humour que vous",
-        "C'est pas sympa de me laisser faire un bid comme ça",
-        "Promis j'en ai des plus drôle"
+        "C'est pas sympa de me laisser faire un bide comme ça",
+        "Promis j'en ai des plus drôle",
+        "Mon humour est trop intellectuel pour que tu le comprenne. Désolé, je vais baisser le niveau",
+        "Les gens normaux rigolent à ce genre de blague d'habitude",
+        
     ],
     UNE_AUTRE:
     [
@@ -229,7 +270,7 @@ $(document).ready(function()
                     // si le mot est blague ou le mot est blague et la question a été posé
                     // et le robot est sur du mot à au moins 45%
                     if ((word.indexOf("blague") !== -1 || (word.indexOf("oui") !== -1 && etat === STATES.WAITING_FOR_JOKE_WITH_QUESTION))
-                            && confidence >= 0.45)
+                            && confidence >= 0.47)
                     {
                         etat = STATES.START_TELLING;
                         console.log("mot blague compris");
@@ -269,7 +310,7 @@ $(document).ready(function()
         // vocabulaire et word spotting 
         reco.setVocabulary(["blague", "oui"], true);
         
-        reco.setVisualExpression(true); typeof array
+        reco.setVisualExpression(false);
         
         reco.pause(false);
         reco.subscribe("test");
@@ -287,6 +328,13 @@ function tick()
     {
         if (new Date().valueOf() % 200 === 0 && Math.random() < 0.3)
             say(TEXTS.DEMANDER_UNE_BLAGUE);
+        $("#percent").text("");
+        EraseText();
+    }
+    else if (etat === STATES.WAITING_FOR_JOKE_WITH_QUESTION)
+    {
+        $("#percent").text("");
+        EraseText();
     }
     else if (etat === STATES.START_TELLING)
     {
@@ -382,10 +430,12 @@ function tick()
         average = total / coef;
         currentJoke.joke.AddMark(average);
         console.log("Moyenne de cette blague=" + average);
+        $("#percent").text("");
+        $("#percent").append("Vous avez ris à <br>" + Math.round(average * 10000)/100 + "%");
         var notunderstood = false;
-        if (average >= 0.5)
+        if (average >= 0.6)
             say(TEXTS.BLAGUE_TRES_DROLE);
-        else if (average >= 0.2)
+        else if (average >= 0.3)
             say(TEXTS.BLAGUE_DROLE);
         else
         {
@@ -449,7 +499,7 @@ function DireUneBlague(joke)
         else
             currentJoke.joke = jokes[Math.floor(Math.random() * jokes.length)];
         
-        DisplayText("");
+        EraseText();
         console.log("blague choisie: " + currentJoke.joke.m_joke);
         currentJoke.sentences = currentJoke.joke.m_joke.split("?");
         currentJoke.nextIndex = 0;
@@ -457,79 +507,22 @@ function DireUneBlague(joke)
     }
 }
 
-function DisplayText(text)
+function EraseText()
 {
-    if (typeof text === "string")
-        $("#blague").val(text + "\n");
+    $("#blague").text("");
 }
+
 
 function AppendText(text)
 {
     if (typeof text === "string")
-        $("#blague").val($("#blague").val() + text + "\n");
-}
-
-/*
-function GatherFeedback()
-{
-    if (currentJoke.onerunning)
     {
-        for (var i = 0; i < detctedList.length; i++)
-        {
-
-            const id = detctedList[i];
-            faceCharacteristics.analyzeFaceCharacteristics(id).done(function ()
-            {
-                memory.getData("PeoplePerception/Person/" + id + "/SmileProperties").done(function (data)
-                {
-                    if (currentJoke.onerunning)
-                    {
-                        feedback.push({smile: data[0], confidence: data[1]});
-                        console.log("[" + feedback.length + "] New Feedback Smile=" + data[0] + ", Confidence=" + data[1]);
-                    }
-                });
-            });
-        }
-        if (feedback.length < 5)
-        {
-            setTimeout(GatherFeedback, 500);
-        }
-        else
-        {
-            console.log("Assez de feedback");
-            var total = 0;
-            var coef = 0;
-            var average = 0;
-            for (var i in feedback)
-            {
-                total += feedback[i].smile * feedback[i].confidence;
-                coef += feedback[i].confidence;
-            }
-            average = total / coef;
-            currentJoke.joke.AddMark(average);
-            console.log("Moyenne de cette blague=" + average);
-            if (average >= 0.2)
-                say("Cette blague était drôle");
-            else
-                say("Excusez-moi pour cette blague de merde");
-            
-            console.log("Fin de la blague Apréciation générale de cette blague " + currentJoke.joke.GetAverage());
-            
-            JokeEnd();
-        }
+        $('#blague').append(text + "<br>");
     }
+    //$("#blague").val($("#blague").val() + text + "\n");
 }
 
-function JokeEnd()
-{
-    feedback.length = 0;
-    currentJoke.joke = undefined;
-    currentJoke.nextIndex = 0;
-    currentJoke.onerunning = false;
-    currentJoke.sentences.length = 0;
-    console.log("System reset");
-}
-*/
+
 
 var sortJokes = function()
 {
@@ -550,7 +543,7 @@ var sortJokes = function()
         if (rank !== currentBestRank)
         {
             jokes[currentBestRank] = jokes[rank];
-            jokes[rank] = currentBestRank;
+            jokes[rank] = currentBest;
         }
     }
     
