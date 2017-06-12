@@ -1,9 +1,3 @@
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 
 // Proxy qui gère les préférences du robot et de l'application
 var preferenceManager;
@@ -575,64 +569,3 @@ function say(message)
 }
 
 
-
-
-
-
-
-
-
-
-
-
-var ips = [//"192.168.101.58", 
-    "192.168.101.77",
-    "192.168.101.57",
-    "192.168.101.76",
-    //"192.168.101.64"
-];
-var sessions = {};
-var ttss = {};
-
-function killall()
-{
-    
-    
-    for (var i in ips)
-    {
-        const ip = ips[i];
-        sessions[ip] = new QiSession(ip);
-        sessions[ip].service("ALTextToSpeech").done(function(ltts)
-        {
-            console.log(ip + " est prêt");
-            ttss[ip] = ltts;
-            //ltts.setVolume(1.0);
-        });
-        sessions[ip].service("ALAudioDevice").done(function(dev)
-        {
-            dev.setOutputVolume(100);
-        });
-    }
-    waitforkill();
-}
-
-function waitforkill()
-{
-    console.log(ttss.length + " robots prêts");
-    if (Object.keys(ttss).length >= Object.keys(ips).length)
-    {
-        console.log("tous les robots sont prêts");
-        kill();
-    }
-    else
-        setTimeout(waitforkill, 2000);
-}
-
-function kill()
-{
-    for (var i in ttss)
-    {
-        ttss[i].say("Continue tu es super drole");
-    }
-    setTimeout(kill, 1500);
-}
